@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fck
+=======
+bitch
+>>>>>>> 28ab742f168c14a1fc4c595ef9eab76d521ed6fb
